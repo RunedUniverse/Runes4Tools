@@ -1,0 +1,9 @@
+[submodule "net/runeduniverse/repo_runed-lifecycle4maven"]
+	path = Workspace/Runed-Maven-Lifecycle
+	url = https://github.com/RunedUniverse/runed-lifecycle4maven.git
+[submodule "net/runeduniverse/repo_runes4eclipse"]
+	path = Tools/Eclipse/Runes4Eclipse
+	url = https://github.com/RunedUniverse/runes4eclipse.git
+[submodule "net/runeduniverse/repo_runes4maven"]
+	path = Tools/Maven/Runes4Maven
+	url = https://github.com/RunedUniverse/runes4maven.git
