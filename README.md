@@ -12,6 +12,8 @@ The workspace structure orientates itself on the Maven Project Structure as such
     - [Runes4Eclipse](https://github.com/RunedUniverse/runes4eclipse)
   - Maven
     - [Runes4Maven](https://github.com/RunedUniverse/runes4maven)
+    - [c2gcc](https://github.com/RunedUniverse/c2gcc)
+    - [cpp2gcc](https://github.com/RunedUniverse/cpp2gcc)
 
 ## Packaging
  + bom
