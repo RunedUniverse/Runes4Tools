@@ -16,8 +16,8 @@ The workspace structure orientates itself on the Maven Project Structure as such
 ## Packaging
  + bom
  + bom-sources
- + native-app
- + native-lib
+ + app
+ + lib
  + unix-kernel-module
  + hexsocket-app
  + hexsocket-module
