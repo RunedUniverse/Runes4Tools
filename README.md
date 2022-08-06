@@ -12,5 +12,13 @@ The workspace structure orientates itself on the Maven Project Structure as such
     - [Runes4Eclipse](https://github.com/RunedUniverse/runes4eclipse)
   - Maven
     - [Runes4Maven](https://github.com/RunedUniverse/runes4maven)
-+ Workspace
-  - [Runed-Maven-Lifecycle](https://github.com/RunedUniverse/runed-lifecycle4maven)
+
+## Packaging
+ + bom
+ + bom-sources
+ + native-app
+ + native-lib
+ + unix-kernel-module
+ + hexsocket-app
+ + hexsocket-module
+ + hexsocket-lib
